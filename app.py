@@ -4,7 +4,7 @@ import streamlit as st
 # from api_key import *
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define function to generate completion
 def generate_completion(prompt):
